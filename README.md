@@ -49,6 +49,3 @@ This project is a .NET Core Web API implementation that includes pagination and 
 
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
